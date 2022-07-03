@@ -47,6 +47,7 @@ In this spirit, I have created a model card from *The Modeler's Hippocratic Oath
 | many of them beyond my comprehension.                                                             | We acknowledge these potential harms are unmitigated, and there may be many unforseen consequences from the model's use or misuse:|
 
 ## Template
+[TEMPLATE.md](TEMPLATE.md)
 
 ## License
 After careful consideration of cc-1.0 and cc-by-4.0, I ultimately chose a license from another model card (HuggingFace), which happened to be the Apache 2.0 License. If this is too restrictive for you or it's a bad choice for this project, please feel free to open an issue in this repo.
