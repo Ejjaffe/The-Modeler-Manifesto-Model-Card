@@ -50,7 +50,7 @@ In this spirit, I have created a model card from *The Modeler's Hippocratic Oath
 [TEMPLATE.md](TEMPLATE.md)
 
 ## Contributing
-Feel free to contribute to this project. If you feel there are improvements that could be made to the wording or my personal interpretations, please open a pull request with changes and/or an issue with your constructive criticism.
+Feel free to contribute to this project. If you feel there are improvements that could be made to the wording or interpretations, please open a pull request with changes and/or an issue with your constructive criticism.
 
 ## License
 After careful consideration of cc-1.0 and cc-by-4.0, I ultimately chose a license from another model card (HuggingFace), which happened to be the Apache 2.0 License. If this is too restrictive for you or it's a bad choice for this project, please feel free to open an issue in this repo.
