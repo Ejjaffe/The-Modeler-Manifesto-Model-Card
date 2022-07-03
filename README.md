@@ -1,5 +1,5 @@
 # The-Modeler-Manifesto-Model-Card
-A model card inspired by Derman &amp; Wilmott's ["Modelers' Hippocratic Oath"](https://web.archive.org/web/20140908100545/http://www.wilmott.com/blogs/paul/index.cfm/2009/1/8/Financial-Modelers-Manifesto) following the 2008 Financial Crisis.
+A model card inspired by Derman &amp; Wilmott's ["Modelers' Hippocratic Oath"](https://web.archive.org/web/20140908100545/http://www.wilmott.com/blogs/paul/index.cfm/2009/1/8/Financial-Modelers-Manifesto), adapted for responsible and nuanced ML.
 
 ## Introduction
 Following the financial collapse of 2008, Quantitative Finance Researchers Emmanuel Derman and Paul Wilmott met in New York City and wrote a [Manifesto](https://web.archive.org/web/20140908100545/http://www.wilmott.com/blogs/paul/index.cfm/2009/1/8/Financial-Modelers-Manifesto) on the financial modeling practices that (partially) caused the crisis. Paul Wilmott is credited with being one of the first people to publish warnings about these models years in advance. In the manifesto, they provide a list of general guidelines for financial modelers, which the manifesto calls *The Modelers' Hippocratic Oath*.
