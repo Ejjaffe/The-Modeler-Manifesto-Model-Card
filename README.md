@@ -49,6 +49,11 @@ In this spirit, I have created a model card from *The Modeler's Hippocratic Oath
 ## Template
 [TEMPLATE.md](TEMPLATE.md)
 
+## Selected Examples
+* [Smiling Detection](examples/Smiling%20Detection.md)
+
+[All Examples](examples)
+
 ## Contributing
 Feel free to contribute to this project. If you feel there are improvements that could be made to the wording or interpretations, please open a pull request with changes and/or an issue with your constructive criticism.
 
